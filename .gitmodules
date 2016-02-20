@@ -1,0 +1,6 @@
+[submodule "community"]
+	path = community
+	url = git@github.com:gsi-upm/senpy-plugins-community.git
+[submodule "enterprise"]
+	path = enterprise
+	url = git@github.com:gsi-upm/senpy-plugins-enterprise.git
