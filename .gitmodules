@@ -4,3 +4,6 @@
 [submodule "enterprise"]
 	path = enterprise
 	url = git@github.com:gsi-upm/senpy-plugins-enterprise.git
+[submodule "senpy"]
+	path = senpy
+	url = git@github.com:gsi-upm/senpy.git
