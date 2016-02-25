@@ -1,4 +1,4 @@
-from senpy-deps
+from gsi-upm/senpy-deps
 
 ADD /enterprise/requirements.txt /senpy-plugins/enterprise/requirements.txt
 
