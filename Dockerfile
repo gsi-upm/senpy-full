@@ -17,6 +17,7 @@ RUN python -m nltk.downloader averaged_perceptron_tagger
 
 ADD /enterprise /senpy-plugins/enterprise
 ADD /community /senpy-plugins/community
+ADD /data /senpy-plugins-data
 
 WORKDIR /usr/src/app/
 
