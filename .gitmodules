@@ -1,9 +1,10 @@
 [submodule "community"]
 	path = community
-	url = git@github.com:gsi-upm/senpy-plugins-community.git
+	url = ssh://git@lab.cluster.gsi.dit.upm.es:2200/senpy/senpy-plugins-community.git
 [submodule "enterprise"]
 	path = enterprise
-	url = git@github.com:gsi-upm/senpy-plugins-enterprise.git
+	url = ssh://git@lab.cluster.gsi.dit.upm.es:2200/senpy/senpy-plugins-enterprise.git
 [submodule "senpy"]
 	path = senpy
-	url = git@github.com:gsi-upm/senpy.git
+	url = ssh://git@lab.cluster.gsi.dit.upm.es:2200/senpy/senpy.git
+
